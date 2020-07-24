@@ -21,10 +21,11 @@ Since March 2016 I resumed my freelance activity. I have worked on different pro
 
 In 2019, I developed a couple of Wordpress sites and implemented a Shopify store with some custom features. I also freelanced for アクセルユニバース株式会社 (Accel Universe) developping a Human Resources SaaS for [EN JAPAN](https://www.enjapan.com/)(08/2019~12/2019).
 
-Moreover, since 2008 I also have been on and off the lone maintainer and developer for the Non Profit Organization [**Gadago**](http://gadago.org) taking care of the [TokyoArtBeat.com](http://TokyoArtBeat.com) website and developing the API for the corresponding [iOS application](http://www.tokyoartbeat.com/apps/).
+Moreover, from 2011 to 2020 I also was on and off the lone maintainer and developer for the Non Profit Organization http://gadago.org/ taking care of the https://TokyoArtBeat.com website and developing the API for the corresponding iOS application.
 
-I am also developing a couple of personal SaaS projects with one to be released this year hopefully.
+Most recently from January to May 2020 I developed an MVP for a company in Tokyo. I can't say much about it yet but it was a good opportunity to use again Ruby on Rails and Stimulus.js with Action Cable.
 
+I am also developing a couple of personal SaaS projects with one to be released this year hopefully. (Edit 2020/07 : first one has been softly released and I am alpha testing it with selected users) if you are managing gear/jersey for a sports team, that could help you : https://mykit.club (ping me in case of interest)
 I can work in French, English and Japanese. My work covers these platforms:
 
 \- Web, back-end and front-end. I am old school I guess.  
@@ -36,8 +37,10 @@ If you think I could help you developing your idea, don't hesitate to contact me
 
 [jerome@ohayostudio.com](mailto:jerome@ohayostudio.com)
 
+[Resume-Jerome-Sadou.pdf](https://www.jeromesadou.com/Resume-Jerome-Sadou.pdf)
+
 \--  
-Last update : 2020/01/05 - source : https://www.jeromesadou.com/apropos
+Last update : 2020/07/24 - source : https://www.jeromesadou.com/apropos
 <!--
 **JeromeSadou/jeromesadou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
