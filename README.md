@@ -44,8 +44,9 @@ If you think I could help you developing your idea, don't hesitate to contact me
 [Resume-Jerome-Sadou.pdf](https://www.jeromesadou.com/Resume-Jerome-Sadou.pdf)
 
 \--  
-Last update : 2020/07/24 - source : https://www.jeromesadou.com/apropos
+Last update : 2020/12/25 
 <!--
+- source : https://www.jeromesadou.com/apropos
 **JeromeSadou/jeromesadou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
