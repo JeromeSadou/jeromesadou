@@ -27,7 +27,7 @@ Most recently from January to May 2020 I developed an MVP for a company in Tokyo
 
 I am also developing a couple of personal SaaS projects with one to be released this year hopefully. (Edit 2020/07 : first one has been softly released and I am alpha testing it with selected users) if you are managing gear/jersey for a sports team, that could help you : https://mykit.club (ping me in case of interest)
 
-From August to end of November 2020 I was freelancing for BULB株式会社, it was a good match and we decided I became an employee of the company, so since 2020/12/01 I am a happy employee working from home.
+From August to end of November 2020 I was freelancing for [BULB株式会社](https://bulbcorp.jp/), it was a good match and we decided I became an employee of the company, so since 2020/12/01 I am a happy employee working from home.
 
 I can work in French, English and Japanese. My work covers these platforms:
 
