@@ -17,7 +17,7 @@ From March 2013 to March 2014, I worked also part-time for the government of [To
 
 From February 2015 to Mars 2016 I was an employee of [**Business Bank Group**](http://bbank.jp) working on an ERP software, [**All-In**](http://web.all-in.xyz/).
 
-In March 2016 I resumed my freelance activity. I worked on different projects for AQ (notably for Google Japan) and also for 株式会社AIDaNE : [Sakelogy.jp](http://sakelogy.jp) and an in-house SaaS.(06/2018~2/2019)
+In March 2016 I resumed my freelance activity. I worked on different projects for AQ (notably for Google Japan) and also for 株式会社AIDaNE.
 
 In 2019, I developed a couple of Wordpress sites and implemented a Shopify store with some custom features. I also freelanced for アクセルユニバース株式会社 (Accel Universe) developping a Human Resources SaaS for [EN JAPAN](https://www.enjapan.com/)(08/2019~12/2019).
 
@@ -35,7 +35,7 @@ I can work in French, English and Japanese. My work covers these platforms:
 \- Feeding iPhone / Android Web Apps. with custom APIs (also can build Native Apps. in some cases)  
 
 My current favorite development framework is Ruby on Rails, wether to build website or APIs to feed some other front-end techno made. I enjoy also StimulusJs and the new magic brought by the people from Basecamp.
-I also develop with ReactJs for our clients.
+I also develop with Go and ReactJs for our clients.
 
 If you think I could help you developing your idea, don't hesitate to contact me, I am all ears :
 
