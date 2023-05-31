@@ -1,6 +1,6 @@
 #### Abrégé
 
-Hello, I am Jérôme Sadou, I build sites & apps from Miyazaki Prefecture ⛰🌋🏝, Swim 🏊‍, bike 🚴‍, run 🏃‍, surf 🏄‍ , [strava.com/athletes/jaytri](https://strava.com/athletes/jaytri), French (Le Havre) in Japan since 2006.
+Hello, I am Jérôme Sadou, I build services from Miyazaki Prefecture ⛰🌋🏝, French (Le Havre) in Japan since 2006.
 
 #### Life
 
