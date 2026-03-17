@@ -47,11 +47,13 @@ If you think I could help you developing your idea, don't hesitate to contact me
 
 [jerome@ohayostudio.com](mailto:jerome@ohayostudio.com)
 
-[Resume-Jerome-Sadou.pdf](https://www.jeromesadou.com/Resume-Jerome-Sadou.pdf)
+
 
 \--  
 Last update : 2024/12/22 
 <!--
+[Resume-Jerome-Sadou.pdf](https://www.jeromesadou.com/Resume-Jerome-Sadou.pdf)
+
 - source : https://www.jeromesadou.com/apropos
 **JeromeSadou/jeromesadou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
